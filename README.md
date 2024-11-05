@@ -11,4 +11,5 @@ Benefits of This Dashboard in Tableau
 Interactivity: Users can likely filter by time, region, or salesperson to get more specific views.
 Real-Time Insights: Such dashboards can be refreshed with updated data, providing current insights without needing to recreate charts manually.
 Data Integration: Tableau enables combining data from multiple sources, allowing for more comprehensive reports.
-![Screenshot (4)](https://github.com/user-attachments/assets/1a296232-0938-4911-b1ce-947e56a6f095)
+![Screenshot 2024-11-06 001215](https://github.com/user-attachments/assets/3979b539-e1db-4125-a923-e2c6953827e8)
+
